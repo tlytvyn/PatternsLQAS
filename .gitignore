@@ -1,0 +1,11 @@
+target/
+test-output/
+.classpath
+.project
+.settings
+hooks/
+info/
+HEAD
+description
+config
+
