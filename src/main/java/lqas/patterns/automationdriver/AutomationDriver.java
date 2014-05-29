@@ -20,5 +20,4 @@ public class AutomationDriver {
 	public void openUrl(String websiteUrl) {
 		System.out.println("opening " + websiteUrl);
 	}
-	
 }
